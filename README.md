@@ -42,3 +42,5 @@ Step 3: Bench Test & Deployment (1 Hour)
  * Deploy: Drop your completed Sentinel Pod into your bilge, marina slip, or local drainage run, and let it sit on autonomous watch.
 # The-Lean-Operator-s-Guide-Building-the-Brigade-Without-an-Engineering-Team
 For the solo builder, independent operator, or garage-scale tinkerer who doesn't have a corporate payroll, an army of engineers, or venture capital backing—this is the stripped-down, high-speed playbook. You don't need a factory; you need standard bench tools, off-the-shelf components, and a weekend.
+
+https://share.gemini.google/1tIMnavLcjoN
